@@ -102,7 +102,8 @@ namespace If_Satser
             }
 
             Console.ReadKey();
-                        
+             
+                       
 
         }
     }
